@@ -1,4 +1,4 @@
-## 🎯This Raga AI Architecture is trending on data science notes like libraries numpy ,pandas ,matplotlib Notes And Data collection and ML DL Notes and SQL Notes etc.
+## 🎯This RAG AI Architecture is trending on data science notes like libraries numpy ,pandas ,matplotlib Notes And Data collection and ML DL Notes etc.
 
 ## Step 1--> Collect The PDFs 
 We Collected The PDFs and merged then into one PDF
